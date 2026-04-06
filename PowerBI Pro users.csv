@@ -1,0 +1,9 @@
+﻿displayName,objectType,mail,userType,id,deviceId,userPrincipalName,isUser,isGroup,isGuest
+Ankur Roy,user,ankur.roy@deiglobal.com,Member,20f744a2-7170-4041-92e6-585c68229ca7,,ankur.roy@deiglobal.com,True,False,False
+Arpitha Tn,user,arpitha.tn@deiglobal.com,Member,b2bee38a-ff2e-4508-b016-a413a1fd64d6,,arpitha.tn@deiglobal.com,True,False,False
+Joel Thomas,user,joel.thomas@deiglobal.com,Member,a24e0a1a-5ceb-4a2f-9474-a5411becf12d,,joel.thomas@deiglobal.com,True,False,False
+Nayan Godade,user,nayan.godade@deiglobal.com,Member,69cf1a03-2d8e-4f3c-b9cb-9a4f9e480290,,nayan.godade@deiglobal.com,True,False,False
+Prasad Patil,user,prasad.patil@deiglobal.com,Member,67117cac-e920-4536-8b5b-ba1bcdd890c3,,prasad.patil@deiglobal.com,True,False,False
+Samar Akhtar,user,samar.akhtar@deiglobal.com,Member,85f88996-b26a-4867-a7cf-0425f001204c,,samar.akhtar@deiglobal.com,True,False,False
+Santhosh Nair,user,santhosh.nair@deiglobal.com,,2f3ee56e-619f-467e-b2e6-dabcf4b1b81d,,santhosh.nair@deiglobal.com,True,False,False
+Sourabh Choudhary,user,sourabh.choudhary@deiglobal.com,Member,787f1ebd-587b-4bc2-889b-e724ea246898,,sourabh.choudhary@deiglobal.com,True,False,False
